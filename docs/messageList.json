@@ -9,8 +9,8 @@
                 "stagging",
                 "product"
             ],
-            "valid_start_date_time": "2021-06-13T13:00.00Z",
-            "valid_end_date_time": "2021-06-30T23:59.59Z",
+            "valid_start_date_time": "2021/06/13 13:00:00",
+            "valid_end_date_time": "2021/06/30 23:59:59",
             "url": "https://tak-kohwaki.github.io/test-page/20210613130000/",
             "memo": "テストメッセージ１です"
         },
@@ -20,8 +20,8 @@
             "env": [
                 "dev"
             ],
-            "valid_start_date_time": "2021-06-13T13:00.00Z",
-            "valid_end_date_time": "2021-06-30T23:59.59Z",
+            "valid_start_date_time": "2021/06/10 13:00:00",
+            "valid_end_date_time": "2021/06/25 23:59:59",
             "url": "https://tak-kohwaki.github.io/test-page/20210613150000/",
             "memo": "テストメッセージ２です"
         }
