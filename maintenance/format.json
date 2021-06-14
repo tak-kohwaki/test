@@ -1,0 +1,27 @@
+{
+    "messageList": [
+        {
+            "id": "",
+            "title": "",
+            "env": [],
+            "valid_start_date_time": "",
+            "valid_end_date_time": "",
+            "url": "",
+            "memo": ""
+        },
+        {
+            "id": "20210613135600",
+            "title": "2021年度診療報酬改定の対応について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2021-06-13T13:00.00Z",
+            "valid_end_date_time": "2021-06-30T23:59.59Z",
+            "url": "https://tak-kohwaki.github.io/test-page/",
+            "memo": "テストメッセージです"
+        }
+    ]
+}

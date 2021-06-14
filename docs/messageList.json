@@ -1,0 +1,29 @@
+{
+    "messageList": [
+        {
+            "id": "20210613130000",
+            "title": "2021年4月度診療報酬改定の対応について",
+            "env": [
+                "dev",
+                "beta",
+                "stagging",
+                "product"
+            ],
+            "valid_start_date_time": "2021-06-13T13:00.00Z",
+            "valid_end_date_time": "2021-06-30T23:59.59Z",
+            "url": "https://tak-kohwaki.github.io/test-page/20210613130000/",
+            "memo": "テストメッセージ１です"
+        },
+        {
+            "id": "20210613150000",
+            "title": "2021年レベルアップついて",
+            "env": [
+                "dev"
+            ],
+            "valid_start_date_time": "2021-06-13T13:00.00Z",
+            "valid_end_date_time": "2021-06-30T23:59.59Z",
+            "url": "https://tak-kohwaki.github.io/test-page/20210613150000/",
+            "memo": "テストメッセージ２です"
+        }
+    ]
+}
