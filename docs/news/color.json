@@ -1,0 +1,20 @@
+[
+  {
+    "tag": {
+      "blue": [
+        {
+          "name": "New",
+          "fontColor": "#FFFFFF",
+          "bgColor": "#1976d2"
+        }
+      ],
+      "red": [
+        {
+          "name": "本日実施",
+          "fontColor": "#FFFFFF",
+          "bgColor": "#FF3333"
+        }
+      ]
+    }
+  }
+]
